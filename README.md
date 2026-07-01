@@ -6,8 +6,6 @@ Este projeto foi desenvolvido como parte de uma atividade acadêmica com foco na
 
 A proposta consiste no desenvolvimento de um chatbot acessível via navegador web, utilizando Python, Streamlit e um modelo open source disponibilizado pela NVIDIA por meio da plataforma NVIDIA NIM. A aplicação permite que usuários façam perguntas em linguagem natural e recebam respostas geradas por um modelo de linguagem.
 
-O projeto foi pensado para simular um cenário real de desenvolvimento e publicação de uma aplicação de IA, passando pelas etapas de implementação local, organização do código, gerenciamento de credenciais, versionamento no GitHub e posterior implantação em uma máquina virtual na nuvem.
-
 ---
 
 ## Objetivo da Atividade
