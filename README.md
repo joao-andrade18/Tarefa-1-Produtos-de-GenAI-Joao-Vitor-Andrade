@@ -1,4 +1,5 @@
-# Chatbot com IA Generativa utilizando NVIDIA NIM e Streamlit
+# Chatbot com IA Generativa
+### João Vitor Andrade da Silva
 
 ## Introdução
 
